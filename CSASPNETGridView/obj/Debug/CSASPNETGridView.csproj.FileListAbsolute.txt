@@ -1,0 +1,5 @@
+C:\Proyectos\Web\AspNetGridView\CSASPNETGridView\bin\CSASPNETGridView.dll.config
+C:\Proyectos\Web\AspNetGridView\CSASPNETGridView\bin\CSASPNETGridView.dll
+C:\Proyectos\Web\AspNetGridView\CSASPNETGridView\bin\CSASPNETGridView.pdb
+C:\Proyectos\Web\AspNetGridView\CSASPNETGridView\obj\Debug\CSASPNETGridView.dll
+C:\Proyectos\Web\AspNetGridView\CSASPNETGridView\obj\Debug\CSASPNETGridView.pdb
